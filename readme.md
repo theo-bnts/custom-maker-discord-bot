@@ -13,13 +13,13 @@ So the aim is twofold:
 - To allow Custom Maker to have new updates for its users
 - To allow you, developers, to use its codes in your projects
 
-This is how you can be sure that all your suggestions, questions, or [pull requests](pulls) will be processed!
+This is how you can be sure that all your suggestions, questions, or [pull requests](../../pulls) will be processed!
 
 ## Contribute
 First of all, if you want to contribute to the project, I thank you!
 
 ### Submit your suggestions / questions
-You can use the tab "[issues](issues)".
+You can use the tab "[issues](../../issues)".
 
 For a good understanding of your request:
 - Please provide as much detail as possible in your issue
