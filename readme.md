@@ -15,6 +15,11 @@ So the aim is twofold:
 
 This is how you can be sure that all your suggestions, questions, or [pull requests](../../pulls) will be processed!
 
+## Start
+- Import [`database-template.sql`](database-template.sql) to your SQL server
+- Unzip `source/assets/replay-parser/bin.zip.001` (install [7-Zip](https://www.7-zip.org) if needed)
+- Complete the configuration file (`source/assets/config.json`)
+
 ## Contribute
 First of all, if you want to contribute to the project, I thank you!
 
