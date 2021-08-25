@@ -1,0 +1,9 @@
+{
+  "name": "node-replay-bindings",
+  "version": "1.0.0",
+  "description": "Bindings for Shiqan/FortniteReplayDecompressor",
+  "main": "index.js",
+  "keywords": [],
+  "author": "ThisNils",
+  "license": "MIT"
+}
