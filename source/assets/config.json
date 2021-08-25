@@ -1,0 +1,94 @@
+{
+    "owner": "DISCORD_USER_ID",
+    "administrators": [
+        "DISCORD_USER_ID",
+        "DISCORD_USER_ID"
+    ],
+    "tokens": {
+        "beta": "DISCORD_BOT_TOKEN",
+        "public": "DISCORD_BOT_TOKEN"
+    },
+    "defaultPrefix": "*",
+    "embedsColor": "#2f3136",
+    "logChannel": "DISCORD_CHANNEL_ID",
+    "mysql": {
+        "database": "DATABASE_NAME",
+        "host": "localhost",
+        "user": "DATABASE_USERNAME",
+        "password": "DATABASE_PASSWORD"
+    },
+    "fortniteTracker": "FORTNITETRACKER_APIKEY",
+    "fortniteApiIo": "FORTNITEAPI_IO_APIKEY",
+    "fortniteApiCom": {
+        "apikey": "FORTNITE_API_COM_APIKEY",
+        "language": "en"
+    },
+    "social": {
+        "youtube": "YOUTUBE_APIKEY",
+        "twitter": {
+            "en": {
+                "bearer": "TWITTER_BEARER",
+                "oauth": {
+                    "consumer_key": "TWITTER_CK",
+                    "consumer_secret": "TWITTER_CS",
+                    "access_token_key": "TWITTER_ATK",
+                    "access_token_secret": "TWITTER_ATS"
+                }
+            }
+        },
+        "instagram": {
+            "client": {
+                "username": "INSTAGRAM_USERNAME",
+                "password": "INSTAGRAM_PASSWORD"
+            }
+        }
+    },
+    "giphy": {
+        "api": "GIPHY_APIKEY"
+    },
+    "top_gg": {
+        "token": "TOP_GG_TOKEN",
+        "webhook_authorization": "TOP_GG_WA",
+        "channel": "DISCORD_CHANNEL_ID"
+    },
+    "epic": [
+        {
+            "email": "EPIC_GAMES_EMAIL",
+            "password": "EPIC_GAMES_PASSWORD",
+            "account": {
+                "auth": {
+                    "deviceAuth": {
+                        "accountId": "EPIC_GAMES_AI",
+                        "deviceId": "EPIC_GAMES_DI",
+                        "secret": "EPIC_GAMES_S",
+                        "displayName": "EPIC_GAMES_USERNAME"
+                    }
+                },
+                "status": "PLEASE WAIT",
+                "kairos": {
+                    "cid": "CID_028_Athena_Commando_F",
+                    "color": "[\"#FFFFFF\", \"#7289DA\", \"#000000\"]"
+                }
+            }
+        },
+        {
+            "email": "EPIC_GAMES_EMAIL",
+            "password": "EPIC_GAMES_PASSWORD",
+            "account": {
+                "auth": {
+                    "deviceAuth": {
+                        "accountId": "EPIC_GAMES_AI",
+                        "deviceId": "EPIC_GAMES_DI",
+                        "secret": "EPIC_GAMES_S",
+                        "displayName": "EPIC_GAMES_USERNAME"
+                    }
+                },
+                "status": "PLEASE WAIT",
+                "kairos": {
+                    "cid": "CID_028_Athena_Commando_F",
+                    "color": "[\"#FFFFFF\", \"#7289DA\", \"#000000\"]"
+                }
+            }
+        }
+    ]
+}
